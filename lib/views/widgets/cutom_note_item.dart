@@ -24,7 +24,7 @@ class CustomNoteItem extends StatelessWidget {
               child: Text(
                 'build ypur career with hashem',
                 style: TextStyle(
-                    fontSize: 15, color: Colors.black.withOpacity(0.5)),
+                    fontSize: 18, color: Colors.black.withOpacity(0.5)),
               ),
             ),
             trailing: IconButton(
